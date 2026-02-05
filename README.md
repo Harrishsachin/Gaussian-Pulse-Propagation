@@ -102,16 +102,10 @@ Compare the simulation results with the theoretical calculations and discuss any
 
 ---
  Results to Record
-- FWHM width of input pulses
-- Measure the temporal width of the Gaussian pulse at half of its maximum amplitude before entering the fiber.
-- Compare with the theoretical value derived from the RMS width relation:
-T_{in}=\frac{T_{FWHM}}{1.665}- FWHM width of output pulses
-- Measure the broadened pulse width at the fiber output.
-- Compare with the theoretical prediction:
-T_{out}^2=T_{in}^2+T_F^2- FWHM width of optical spectra
-- Use the optical spectrum analyzer to measure the spectral width of the input and output signals.
-- Compare with the calculated RMS spectral width:
-\Delta \lambda =\frac{\lambda ^2}{\pi cT_{in}}\sqrt{1+C^2}
+<img width="1448" height="1015" alt="Screenshot 2026-02-05 113211" src="https://github.com/user-attachments/assets/5a7b450e-e6d6-4efc-8c33-791775fdfa8c" />
+<img width="1448" height="1015" alt="Screenshot 2026-02-05 113211" src="https://github.com/user-attachments/assets/5a7b450e-e6d6-4efc-8c33-791775fdfa8c" />
+<img width="1448" height="1016" alt="image" src="https://github.com/user-attachments/assets/8e483258-c695-4eab-8899-e47330646978" />
+<img width="1448" height="1016" alt="image" src="https://github.com/user-attachments/assets/8e483258-c695-4eab-8899-e47330646978" />
 
 
 
